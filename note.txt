@@ -1,0 +1,9 @@
+## To convert you cmd to anaconda3 prompet
+
+C:\Users\Mahmoud\anaconda3\Scripts\activate.bat C:\Users\Mahmoud\anaconda3\envs\tf
+
+# To select the interpter as conda env
+Ctrl + Shift + P 
+
+
+# ((((callback)))) are functions that called by tensorflow during the trainning of the  model
