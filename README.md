@@ -1,4 +1,4 @@
-# German Traffic Sign Recognition with Deep Learning
+![Output](https://github.com/user-attachments/assets/9b4a2258-2f75-4b26-819a-f634a6a93240)# German Traffic Sign Recognition with Deep Learning
 
 This project demonstrates the implementation of a deep learning model for the task of image classification on the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The model is deployed using Streamlit to provide a user-friendly web interface.
 
@@ -68,7 +68,8 @@ Streamlit is used to deploy the trained model. The deployment process involves:
 The final model achieves high accuracy on the validation set. Below is an example of the output from the Streamlit app:
 
 ![Model Output]
-![Uploading Output.png…]()
+
+![Output](https://github.com/user-attachments/assets/edf9b892-469c-483a-947d-4806b926cc40)
 
 
 ## Usage
