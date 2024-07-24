@@ -68,7 +68,8 @@ Streamlit is used to deploy the trained model. The deployment process involves:
 The final model achieves high accuracy on the validation set. Below is an example of the output from the Streamlit app:
 
 ![Model Output]
-<a href="https://imagetolink.com/ib/nQfZU3vlCZ"><img src="https://imagetolink.com/ib/nQfZU3vlCZ.png" alt="nQfZU3vlCZ"/></a>
+![Uploading Output.png…]()
+
 
 ## Usage
 
